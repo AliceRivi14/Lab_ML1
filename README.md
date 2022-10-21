@@ -1,4 +1,5 @@
-# Lab_ML1
+# Machine Learning 1 laboratory
+Robotics Engineering 
 
 ## 1 Naive Bayes Classifier
 
